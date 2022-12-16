@@ -1,4 +1,14 @@
 {
+  "contacts": [
+    {
+      "id": 1,
+      "firstname": "Post 1",
+      "lastname":"last name",
+      "reason":"test reason",
+      "email":"test email",
+      "message":"test message"
+    }
+  ],
   "posts": [
     {
       "id": 1,
