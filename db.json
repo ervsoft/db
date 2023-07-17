@@ -40,10 +40,7 @@
   },
   "settings":{
     "isPremium": true,
-    "userType":"limited",
-    
-     
-
+    "userType":"limited"
   },
     
   "roadmap": {
