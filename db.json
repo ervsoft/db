@@ -38,6 +38,12 @@
   "profile": {
     "name": "typicode"
   },
+  "settings":{
+    "isPremium": false,
+     
+
+  },
+    
   "roadmap": {
     "en": {
       "title": "Roadmap",
