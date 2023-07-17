@@ -39,8 +39,9 @@
     "name": "typicode"
   },
   "settings":{
-    "isPremium": false,
-    "userType":"limited"
+    "isPremium": true,
+    "userType":"limited",
+    
      
 
   },
